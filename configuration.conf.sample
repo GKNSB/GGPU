@@ -1,0 +1,6 @@
+[Config]
+webhookUrl = <your Discord webhook url here>
+items = {
+		"3060": 500, 
+		"3070": 800
+		}
